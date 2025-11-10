@@ -1,0 +1,767 @@
+%
+%
+recived:-C:\Users\dell\Desktop\whatsapp%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-26 11:36:12.544411%
+With:-C:\Users\dell\Desktop\whatsapp%
+%
+recived:-1117, y=361%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-26 11:49:26.915759%
+With:-1117, y=361%
+%
+recived:-568, y=633%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-26 11:54:51.064582%
+With:-Shreya%
+%
+recived:-Hii%
+sent:-Hello, whats up??%
+time:-2022-11-26 11:58:56.876376%
+With:-Hii%
+%
+recived:-Hi%
+sent:-Hello, whats up??%
+time:-2022-11-26 13:25:11.170628%
+With:-Hi%
+%
+recived:-Hii%
+sent:-Hello, whats up??%
+time:-2022-11-26 13:44:08.128209%
+With:-Hii%
+%
+recived:-Hii%
+sent:-Hello, whats up??%
+time:-2022-11-26 13:44:34.346018%
+With:-Hii%
+%
+recived:-How are u%
+sent:-i am fine, what about u?%
+time:-2022-11-26 13:44:49.953384%
+With:-Shreya%
+%
+recived:-Good%
+sent:-  THANK YOU :smi%
+time:-2022-11-26 13:45:06.206667%
+With:-Shreya%
+%
+recived:-Welcome%
+sent:-smili face%
+time:-2022-11-26 13:45:21.898526%
+With:-Shreya%
+%
+recived:-Okk%
+sent:-smili face%
+time:-2022-11-26 13:45:36.482510%
+With:-Shreya%
+%
+recived:-Hello%
+sent:-Hello, whats up??%
+time:-2022-11-26 19:51:40.097817%
+With:-Hello%
+%
+recived:-Hii%
+sent:-Hello Boss%
+time:-2022-11-26 19:55:13.690851%
+With:-Mr. Harshit%
+%
+recived:-How are you%
+sent:-i am fine, what about u?%
+time:-2022-11-26 19:55:06.891346%
+With:-Shreya%
+%
+recived:-Welcome%
+sent:-smili face%
+time:-2022-11-26 19:55:06.891346%
+With:-Shreya%
+%
+recived:-Welcome%
+sent:-smili face%
+time:-2022-11-26 19:55:06.891346%
+With:-Shreya%
+%
+recived:-Hii%
+sent:-Hello Boss%
+time:-2022-11-26 19:56:34.430964%
+With:-Mr. Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss%
+time:-2022-11-26 20:17:55.865245%
+With:-Mr. Harshit%
+%
+recived:-How are you%
+sent:-i am fine, what about u?%
+time:-2022-11-26 20:18:09.967426%
+With:-Mr.Harshit%
+%
+recived:-Good%
+sent:-  emoji%
+time:-2022-11-26 20:20:07.440050%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:20:14.769839%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:20:22.472465%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:20:30.049670%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:20:37.740088%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:20:45.240694%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:21:23.538151%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:21:31.470989%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:21:39.729056%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:21:47.704495%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:21:56.008970%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:22:04.112214%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:22:12.135056%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:22:20.217709%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-welcome :smi%
+time:-2022-11-26 20:22:28.115333%
+With:-Mr.Harshit%
+%
+recived:-Hi%
+sent:-Hello, whats up??%
+time:-2022-11-26 20:20:00.646282%
+With:-Shreya%
+%
+recived:-Hii%
+sent:-Hello Boss%
+time:-2022-11-26 20:26:42.342950%
+With:-Mr. Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:27:33.631491%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:27:41.300502%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:27:48.900510%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-emoji%
+time:-2022-11-26 20:27:56.587907%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss%
+time:-2022-11-26 20:35:14.007128%
+With:-Mr. Harshit%
+%
+recived:-Welcome%
+sent:-\%
+time:-2022-11-26 20:35:28.219682%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-:smi%
+time:-2022-11-26 20:36:39.658157%
+With:-Mr.Harshit%
+%
+recived:-Good%
+sent:-\%
+time:-2022-11-26 20:39:20.849525%
+With:-Mr.Harshit%
+%
+recived:-Okk%
+sent:-\%
+time:-2022-11-26 20:39:41.079428%
+With:-Mr.Harshit%
+%
+recived:-Good%
+sent:-  THANK YOU :smi%
+time:-2022-11-26 20:39:07.678246%
+With:-Good%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-26 21:18:37.600338%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 21:18:51.747126%
+With:-Mr.Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 21:19:07.078193%
+With:-Mr.Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 21:21:11.839128%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-26 21:22:29.488815%
+With:-Mr. Harshit%
+%
+recived:-How are you%
+sent:-i am fine, what about u?/%
+time:-2022-11-26 21:22:49.628320%
+With:-Mr.Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 21:23:11.576127%
+With:-Mr.Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 21:23:27.541018%
+With:-Mr.Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 21:24:28.917802%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-26 21:41:33.437962%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 21:41:53.638656%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-26 22:03:33.986399%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 22:03:54.258559%
+With:-Mr.Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 22:04:16.179813%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-26 22:06:39.378003%
+With:-Mr. Harshit%
+%
+recived:-Commands/%
+sent:-*commands/*(shows all the commands),*screenshot/*(takes screen shot of your pc)%
+time:-2022-11-26 22:38:32.666723%
+With:-Mr.Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-26 22:39:25.674572%
+With:-Mr.Harshit%
+%
+recived:-Hello%
+sent:-Hello Boss/%
+time:-2022-11-26 22:40:32.105464%
+With:-Mr. Harshit%
+%
+recived:-How are you%
+sent:-i am fine, what about u?/%
+time:-2022-11-26 22:40:46.243755%
+With:-Mr.Harshit%
+%
+recived:-Good%
+sent:-\%
+time:-2022-11-26 22:40:55.706619%
+With:-Mr.Harshit%
+%
+recived:-Welcome%
+sent:-\%
+time:-2022-11-26 22:42:11.860037%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-:smi%
+time:-2022-11-26 22:42:26.700721%
+With:-Mr.Harshit%
+%
+recived:-Okk%
+sent:-\%
+time:-2022-11-26 22:43:00.534517%
+With:-Mr.Harshit%
+%
+recived:-1251, y=1%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 16:27:50.288567%
+With:-1251, y=1%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-28 16:29:06.950748%
+With:-Mr. Harshit%
+%
+recived:-%
+sent:-*commands/*(shows all the commands),*screenshot/*(takes screen shot of your pc)%
+time:-2022-11-28 16:36:05.707646%
+With:-Mr.Harshit%
+%
+recived:-commands/(shows all the commands),screenshot/(takes screen shot of your pc)%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 16:35:03.555313%
+With:-commands/(shows all the commands),screenshot/(takes screen shot of your pc)%
+%
+recived:-elif (p.pixelMatchesColor(34,139,(196, 172, 106),tolerance=2) != True) and (p.pixelMatchesColor(34,119,(255, 253, 255),tolerance=2) != True):
+            p.moveTo(1251,1,duration=0.01)
+            p.click(1251,1)%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 16:40:54.693365%
+With:-elif (p.pixelMatchesColor(34,139,(196, 172, 106),tolerance=2) != True) and (p.pixelMatchesColor(34,119,(255, 253, 255),tolerance=2) != True):
+            p.moveTo(1251,1,duration=0.01)
+            p.click(1251,1)%
+%
+recived:-elif (p.pixelMatchesColor(34,139,(196, 172, 106),tolerance=2) != True) and (p.pixelMatchesColor(34,119,(255, 253, 255),tolerance=2) != True):
+            p.moveTo(1251,1,duration=0.01)
+            p.click(1251,1)%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 16:40:54.693365%
+With:-elif (p.pixelMatchesColor(34,139,(196, 172, 106),tolerance=2) != True) and (p.pixelMatchesColor(34,119,(255, 253, 255),tolerance=2) != True):
+            p.moveTo(1251,1,duration=0.01)
+            p.click(1251,1)%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-28 16:42:55.163814%
+With:-Mr. Harshit%
+%
+recived:-commands/(shows all the commands),screenshot/(takes screen shot of your pc)%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 16:40:54.693365%
+With:-commands/(shows all the commands),screenshot/(takes screen shot of your pc)%
+%
+recived:-except(Exception):
+                print("no new msg...")%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 18:28:37.314128%
+With:-except(Exception):
+                print("no new msg...")%
+%
+recived:-except(Exception):
+                print("no new msg...")%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 18:28:37.314128%
+With:-except(Exception):
+                print("no new msg...")%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-28 18:31:12.576624%
+With:-Mr. Harshit%
+%
+recived:-Hello Boss/%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 18:28:37.314128%
+With:-Hello Boss/%
+%
+recived:-Hello Boss/%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 18:28:37.314128%
+With:-Hello Boss/%
+%
+recived:-pos3x+4,pos3y+253%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 18:53:33.507060%
+With:-pos3x+4,pos3y+253%
+%
+recived:-pos3x+4,pos3y+253%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 18:53:33.507060%
+With:-pos3x+4,pos3y+253%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-28 18:56:35.884331%
+With:-Mr. Harshit%
+%
+recived:-Hello Boss/%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 18:53:33.507060%
+With:-Hello Boss/%
+%
+recived:-Hello Boss/%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 18:53:33.507060%
+With:-Hello Boss/%
+%
+recived:-https://www.facebook.com/2128606367407067/posts/pfbid02gbdo5gEQF988TL2zdSMgg5GEXZTrEjbBk3hZrmn7Npr7JbNzBLGsg6UBWyb9pRUil/?mibextid=Nif5oz%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 19:03:52.480891%
+With:-https://www.facebook.com/2128606367407067/posts/pfbid02gbdo5gEQF988TL2zdSMgg5GEXZTrEjbBk3hZrmn7Npr7JbNzBLGsg6UBWyb9pRUil/?mibextid=Nif5oz%
+%
+recived:-https://www.facebook.com/2128606367407067/posts/pfbid02gbdo5gEQF988TL2zdSMgg5GEXZTrEjbBk3hZrmn7Npr7JbNzBLGsg6UBWyb9pRUil/?mibextid=Nif5oz%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 19:03:52.480891%
+With:-https://www.facebook.com/2128606367407067/posts/pfbid02gbdo5gEQF988TL2zdSMgg5GEXZTrEjbBk3hZrmn7Npr7JbNzBLGsg6UBWyb9pRUil/?mibextid=Nif5oz%
+%
+recived:-https://www.facebook.com/2128606367407067/posts/pfbid02gbdo5gEQF988TL2zdSMgg5GEXZTrEjbBk3hZrmn7Npr7JbNzBLGsg6UBWyb9pRUil/?mibextid=Nif5oz%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 19:03:52.480891%
+With:-https://www.facebook.com/2128606367407067/posts/pfbid02gbdo5gEQF988TL2zdSMgg5GEXZTrEjbBk3hZrmn7Npr7JbNzBLGsg6UBWyb9pRUil/?mibextid=Nif5oz%
+%
+recived:-sleep(4)
+pos3=p.locateOnScreen("logo.png",confidence=.7)
+pos3x=pos3[0]
+pos3y=pos3[1]
+print(pos3x)
+p.moveTo(pos3,duration=0.2)
+p.click()
+p.rightClick()
+p.moveTo(pos3x+56,pos3y+250,duration=0.2)
+p.click(pos3x+56,pos3y+259)
+sleep(5)%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 20:08:20.016415%
+With:-sleep(4)
+pos3=p.locateOnScreen("logo.png",confidence=.7)
+pos3x=pos3[0]
+pos3y=pos3[1]
+print(pos3x)
+p.moveTo(pos3,duration=0.2)
+p.click()
+p.rightClick()
+p.moveTo(pos3x+56,pos3y+250,duration=0.2)
+p.click(pos3x+56,pos3y+259)
+sleep(5)%
+%
+recived:-p.moveTo(pos3x+56,pos3y+250,duration=0.2)%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 20:30:01.532402%
+With:-p.moveTo(pos3x+56,pos3y+250,duration=0.2)%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-28 20:31:56.344203%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-28 21:08:28.351796%
+With:-Mr.Harshit%
+%
+recived:-closetabs/%
+sent:-Done boss/%
+time:-2022-11-28 21:23:09.803807%
+With:-Mr. Harshit%
+%
+recived:-Closetabs/%
+sent:-Done boss/%
+time:-2022-11-28 21:24:20.031963%
+With:-Mr. Harshit%
+%
+recived:-Closetabs/%
+sent:-Done boss/%
+time:-2022-11-28 21:34:58.926396%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-28 21:35:50.832945%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-28 21:36:13.723275%
+With:-Mr. Harshit%
+%
+recived:-How are you%
+sent:-i am fine, what about u?/%
+time:-2022-11-28 21:36:27.572308%
+With:-Mr.Harshit%
+%
+recived:-Good%
+sent:-\%
+time:-2022-11-28 21:36:36.916968%
+With:-Mr.Harshit%
+%
+recived:-Thank you%
+sent:-:smi%
+time:-2022-11-28 21:36:50.977401%
+With:-Mr.Harshit%
+%
+recived:-welcome/%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 21:34:14.848235%
+With:-welcome/%
+%
+recived:-welcome/%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 21:34:14.848235%
+With:-welcome/%
+%
+recived:-welcome/%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-28 21:34:14.848235%
+With:-welcome/%
+%
+recived:-welcome%
+sent:-\%
+time:-2022-11-28 21:40:58.793462%
+With:-Mr.Harshit%
+%
+recived:-%
+sent:-*commands/*(shows all the commands),*screenshot/*(takes screen shot of your pc),*closetabs/*(close all tabs other than whatsapp)%
+time:-2022-11-28 21:55:50.138135%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-28 21:56:17.025018%
+With:-Mr. Harshit%
+%
+recived:-Closetabs/%
+sent:-Done boss/%
+time:-2022-11-28 21:57:07.511935%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-28 21:57:28.793669%
+With:-Mr.Harshit%
+%
+recived:-/%
+sent:-*commands/*(shows all the commands),*screenshot/*(takes screen shot of your pc),*closetabs/*(close all tabs other than whatsapp)%
+time:-2022-11-28 21:57:50.709069%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-28 21:58:54.070098%
+With:-Mr. Harshit%
+%
+recived:-p.moveTo(pos3x+56,pos3y+315,duration=0.2)
+                    p.click(pos3x+56,pos3y+315)%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-29 00:48:50.940414%
+With:-p.moveTo(pos3x+56,pos3y+315,duration=0.2)
+                    p.click(pos3x+56,pos3y+315)%
+%
+recived:-p.moveTo(0,pos3y+259,duration=0.2)
+            p.click(0,pos3y+259)%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-11-29 00:57:34.332570%
+With:-p.moveTo(0,pos3y+259,duration=0.2)
+            p.click(0,pos3y+259)%
+%
+recived:-Okay%
+sent:-smili face%
+time:-2022-11-29 00:57:34.332570%
+With:-JUHI%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-29 01:03:57.047706%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-29 01:04:17.197431%
+With:-Mr.Harshit%
+%
+recived:-Closetabs/%
+sent:-Done boss/%
+time:-2022-11-29 01:05:09.783040%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-29 01:05:30.492987%
+With:-Mr.Harshit%
+%
+recived:-Commands/%
+sent:-*commands/*(shows all the commands),*screenshot/*(takes screen shot of your pc),*closetabs/*(close all tabs other than whatsapp)%
+time:-2022-11-29 01:06:04.702011%
+With:-Mr.Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-29 18:57:49.092548%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-29 18:58:03.275314%
+With:-Mr.Harshit%
+%
+recived:-Webcam/%
+sent:-Done boss/%
+time:-2022-11-29 18:58:32.367913%
+With:-Mr. Harshit%
+%
+recived:-Webcam/%
+sent:-Done boss/%
+time:-2022-11-29 18:58:46.963745%
+With:-Mr. Harshit%
+%
+recived:-Webcam/%
+sent:-Done boss/%
+time:-2022-11-29 18:59:38.581586%
+With:-Mr. Harshit%
+%
+recived:-Webcam/%
+sent:-Done boss/%
+time:-2022-11-29 18:59:53.025409%
+With:-Mr. Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-11-29 19:50:46.772329%
+With:-Mr. Harshit%
+%
+recived:-Commands/%
+sent:-*commands/*(shows all the commands),*recaud/*(record audio of 20 sec),*webcam/*(takes picture through your pc webcam),*screenshot/*(takes screen shot of your pc),*closetabs/*(close all tabs other than whatsapp)%
+time:-2022-11-29 19:51:01.001095%
+With:-Mr.Harshit%
+%
+recived:-Recaud/%
+sent:-Recording%
+time:-2022-11-29 19:56:09.228849%
+With:-Mr. Harshit%
+%
+recived:-Webcam/%
+sent:-webcam%
+time:-2022-11-29 19:56:45.701607%
+With:-Mr. Harshit%
+%
+recived:-Recaud/%
+sent:-Recording%
+time:-2022-11-29 20:03:19.028399%
+With:-Mr. Harshit%
+%
+recived:-Hi%
+sent:-Hello, whats up??%
+time:-2022-11-29 22:57:31.847532%
+With:-Shreya%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-29 23:26:30.327652%
+With:-Mr.Harshit%
+%
+recived:-/%
+sent:-*commands/*(shows all the commands),*archiveself/*(EDITH is removed from top),*archive/*(archive the below chat),*recaud/*(record audio of 20 sec),*webcam/*(takes picture through your pc webcam),*screenshot/*(takes screen shot of your pc),*closetabs/*(close all tabs other than whatsapp)%
+time:-2022-11-29 23:26:52.324767%
+With:-Mr.Harshit%
+%
+recived:-Recaud/%
+sent:-Recording%
+time:-2022-11-29 23:27:42.873636%
+With:-Mr. Harshit%
+%
+recived:-Recaud/%
+sent:-Recording%
+time:-2022-11-29 23:28:22.925141%
+With:-Mr. Harshit%
+%
+recived:-Recaud/%
+sent:-Recording%
+time:-2022-11-29 23:29:15.494421%
+With:-Mr. Harshit%
+%
+recived:-Webcam/%
+sent:-webcam%
+time:-2022-11-29 23:30:07.680337%
+With:-Mr. Harshit%
+%
+recived:-Webcam/%
+sent:-webcam%
+time:-2022-11-29 23:30:23.351432%
+With:-Mr. Harshit%
+%
+recived:-Closetabs/%
+sent:-Done boss/%
+time:-2022-11-29 23:31:09.435350%
+With:-Mr. Harshit%
+%
+recived:-Screenshot/%
+sent:-screenshot%
+time:-2022-11-29 23:31:30.113863%
+With:-Mr.Harshit%
+%
+recived:-Good%
+sent:-  THANK YOU :smi%
+time:-2022-11-29 23:23:25.604361%
+With:-Shreya%
+%
+recived:-Jywarguj%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*.To know more about me click on the link( http://63864c0c33278.site123.me/ )Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-12-01 13:46:04.874086%
+With:-Shreya%
+%
+recived:-Tdutdu%
+sent:-Your msg will be deliverd.This is Mr.Harshit's python bot EDITH.He is curently not availaible,will message you soon.Currenty Mr.Harshit only taught me to reply the messages like *hi* , *hello* , *how are u* , *ok* and compliments like=> *good* , *nice* , etc. *Sorry for inconvinience,I am under developent*.Drop your msg you want to send!EDITH(Future of the world)%
+time:-2022-12-01 13:49:28.601255%
+With:-Shreya%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-12-01 13:52:16.501543%
+With:-Mr. Harshit%
+%
+recived:-Hii%
+sent:-Hello Boss/%
+time:-2022-12-01 13:52:58.851593%
+With:-Mr. Harshit
